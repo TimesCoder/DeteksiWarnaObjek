@@ -1,2 +1,2 @@
 # DeteksiWarnaObjek
-Detection color object with modelings K-means & OpenCv
+Detection color on object using modelings K-means & OpenCv
